@@ -7,3 +7,6 @@ This project is meant to cover a multitude of variables that are out of team and
 1. Individual driver performance and what temperatures they most thrive in personally
 2. Precipitation and relative humidity during races and who performs best in these conditions. This is important to differenciate from the first point because although a driver might do better than everyone else in certain precipitation or humidity, it is unlikely that they thrive in precipitation instead of a dry track.
 
+
+
+**Something to consider in terms of predicting tire degredation might to be calculate the slope of each turn, the angle that the turn occurs at, and then the typical speed that any certain driver takes that turn at. Once you factor in track temperature, speed, and the slope of the track, I feel like you might be able to estimate tire degradation, at the very least on the sides**
