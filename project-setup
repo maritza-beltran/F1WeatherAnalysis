@@ -1,4 +1,4 @@
-for the virtual envirnment, you will want to install the following if you're on a macOS:
+for the virtual environment, you will want to install the following if you're on a macOS:
   pip install fastf1 pandas matplotlib seaborn plotly meteostat
 
 Basically, you will want to have access to python pandas, matplotlib, seaborn, plotly, and meteostat
